@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Simulation Result
+*.dat
+*.pdf
